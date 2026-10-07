@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e0b7367a88532917"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated on Upwork"></a>
   <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=for-the-badge" alt="100% Job Success">
-  <img src="https://img.shields.io/badge/Rating-4.9%2F5-f5a623?style=for-the-badge" alt="4.9 rating">
+  <img src="https://img.shields.io/badge/Rating-5%2F5-f5a623?style=for-the-badge" alt="5 rating">
   <img src="https://img.shields.io/badge/Projects-400%2B-0a66c2?style=for-the-badge" alt="400+ projects">
 </p>
 
