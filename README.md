@@ -55,7 +55,29 @@ Designed, developed, deployed, and maintained the website and its underlying ser
 
 **Duration:** 4 years of ongoing website and server management.
 
-- **[droid-life.com](projects/case-studies.md#droid-lifecom)**: fixed PHP and VPS problems, upgraded the site, moved it to a new theme and tuned it for speed
+- **[droid-life.com](projects/case-studies.md#droid-lifecom)**: ### — Website Modernization, Server Optimization & Performance Improvements
+
+**Technologies:** WordPress, PHP, Linux VPS, MySQL, Nginx/Apache, HTML, CSS, JavaScript, Caching & Performance Optimization
+
+**Project Overview:**
+
+Worked on the technical maintenance, modernization, and performance optimization of **Droid-Life.com**, a technology news and media website. The project focused on resolving critical PHP and VPS-related issues, upgrading the website's infrastructure, migrating to a modern WordPress theme, and improving overall website performance, stability, and user experience.
+
+**Key Responsibilities & Achievements:**
+
+- **PHP Troubleshooting & Compatibility:** Diagnosed and resolved PHP-related errors, compatibility issues, and configuration problems to ensure reliable website functionality and compatibility with updated software components.
+- **VPS Server Management & Optimization:** Investigated and fixed Virtual Private Server (VPS) issues, optimized server configurations, and improved the stability and reliability of the hosting environment.
+- **Website Upgrades & Maintenance:** Updated the WordPress environment, addressed outdated components, and resolved compatibility conflicts to improve security, maintainability, and long-term stability.
+- **WordPress Theme Migration:** Successfully migrated the website to a new, modern theme while maintaining existing content, functionality, and overall website structure. Addressed theme-related compatibility and layout issues during the transition.
+- **Website Speed & Performance Optimization:** Improved page-loading performance through caching improvements, asset optimization, reduced unnecessary resource usage, and frontend performance tuning.
+- **Database & Backend Optimization:** Reviewed backend performance and optimized relevant configurations to reduce unnecessary processing overhead and improve website responsiveness.
+- **Bug Fixing & Technical Support:** Identified and resolved technical issues affecting website functionality, rendering, and overall operational reliability.
+
+**Project Outcome:**
+
+Delivered a more stable, modernized, and performance-optimized WordPress website with improved PHP compatibility, a better-configured VPS environment, and an updated theme. The improvements helped establish a more reliable foundation for ongoing content publishing, website maintenance, and future development.
+
+**Website:** [droid-life.com](https://www.droid-life.com/)
 
 ### 🌐 Live sites
 
