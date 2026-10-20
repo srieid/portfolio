@@ -5,30 +5,30 @@
   <a href="https://www.upwork.com/freelancers/~01e0b7367a88532917"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Top Rated on Upwork"></a>
   <img src="https://img.shields.io/badge/Job%20Success-100%25-14a800?style=for-the-badge" alt="100% Job Success">
   <img src="https://img.shields.io/badge/Rating-5%2F5-f5a623?style=for-the-badge" alt="5 rating">
-  <img src="https://img.shields.io/badge/Projects-400%2B-0a66c2?style=for-the-badge" alt="400+ projects">
+  <img src="https://img.shields.io/badge/Jobs%20completed-96-0a66c2?style=for-the-badge" alt="96 jobs completed">
 </p>
 
 ---
 
 ### 🚀 About me
 
-I build, fix and speed up WordPress and WooCommerce sites for clients across the **USA, UK, Europe, Australia and Singapore**. 400+ projects delivered, from ecommerce stores and SaaS sites to healthcare platforms and LMS systems.
+I build, fix and speed up WordPress and WooCommerce sites for clients across the **USA, UK, Europe, Australia and Singapore**. My work ranges from ecommerce stores and SaaS sites to healthcare platforms and LMS systems.
 
 If a site is slow, broken, hacked or needs a WooCommerce upgrade, I've usually solved that exact problem before.
 
-- 📍 Hyderabad, India (IST, UTC+5:30)
-- ⚡ Usually reply within 2 hours, urgent fixes same day
-- 🎥 [Watch my video intro](https://youtu.be/ZGnOHecYEhM)
+- Hyderabad, India (IST, UTC+5:30)
+- Usually reply within 2 hours, urgent fixes same day
+- [Watch my video intro](https://youtu.be/ZGnOHecYEhM)
 
 ### 🛠️ What I do
 
 | | |
 |---|---|
-| 🛒 **WooCommerce stores** | Mobile-first, payment-ready stores built to convert |
-| ⚡ **Speed optimization** | PageSpeed 90–100 and healthy Core Web Vitals |
-| 🛡️ **Site rescues** | Downtime, malware, PHP errors and SSL issues fixed fast |
-| 🔁 **Migrations & rebuilds** | Theme and host moves without losing content or SEO |
-| 🎨 **Elementor & Gutenberg** | Pixel-perfect layouts without the bloat |
+| **WooCommerce stores** | Mobile-first, payment-ready stores built to convert |
+| **Speed optimization** | PageSpeed 90–100 and healthy Core Web Vitals |
+| **Site rescues** | Downtime, malware, PHP errors and SSL issues fixed fast |
+| **Migrations & rebuilds** | Theme and host moves without losing content or SEO |
+| **Elementor & Gutenberg** | Pixel-perfect layouts without the bloat |
 
 ### 🏆 Highlights
 
@@ -80,11 +80,7 @@ Snippets I kept copying between client sites, cleaned up and put in one place. E
 
 ### 💬 What clients say
 
-> "His skill with WordPress, PHP, and design are clearly high."
-> — Kellen Barranger, Droid Life
-
-> "My task was quite complex but he completed it with 100% perfection."
-> — Mubbarah
+The reviews from my clients are on my [Upwork profile](https://www.upwork.com/freelancers/~01e0b7367a88532917).
 
 ### 🤝 Work with me
 
