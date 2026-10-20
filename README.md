@@ -40,7 +40,21 @@ If a site is slow, broken, hacked or needs a WooCommerce upgrade, I've usually s
 
 ### 📂 Case studies
 
-- **[amberandgreen.com.sg](projects/case-studies.md#amberandgreencomsg)**: built the VPS, designed and developed the site, and have maintained both for four years
+- **[amberandgreen.com.sg](projects/case-studies.md#amberandgreencomsg)**: **[amberandgreen.com.sg](https://github.com/srieid/portfolio/blob/main/projects/case-studies.md#amberandgreencomsg)** — **End-to-End Website Development, VPS Infrastructure Setup & Ongoing Maintenance**
+
+Designed, developed, deployed, and maintained the website and its underlying server infrastructure, taking full responsibility for both the application and hosting environment.
+
+- **VPS Setup & Configuration:** Provisioned and configured a Virtual Private Server (VPS), establishing the hosting environment and managing the infrastructure required for reliable website operation.
+- **Website Design & Development:** Designed and developed the website from the ground up, focusing on a professional appearance, responsive layouts, intuitive navigation, and a smooth user experience across devices.
+- **Deployment & Server Management:** Handled website deployment, server configuration, domain integration, and ongoing hosting administration to ensure stable operation.
+- **Performance & Reliability:** Managed ongoing technical improvements, troubleshooting, and optimizations to maintain website performance, stability, and availability.
+- **Security & Maintenance:** Performed routine website and server maintenance, including software updates, configuration adjustments, and technical issue resolution.
+- **Long-Term Ownership & Support:** Provided continuous technical support and maintenance for **four years**, independently managing both the website and VPS infrastructure to keep the platform operational and up to date.
+
+**Project Scope:** Full-stack website delivery, UI/UX design, VPS provisioning, deployment, infrastructure administration, troubleshooting, and long-term technical maintenance.
+
+**Duration:** 4 years of ongoing website and server management.
+
 - **[droid-life.com](projects/case-studies.md#droid-lifecom)**: fixed PHP and VPS problems, upgraded the site, moved it to a new theme and tuned it for speed
 
 ### 🌐 Live sites
