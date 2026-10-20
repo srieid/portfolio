@@ -15,6 +15,7 @@ Public sites I have built or worked on. Client code stays private, so this list 
 | [ecomsecurity.org](https://www.ecomsecurity.org) | Avada | Cybersecurity and compliance consultancy |
 | [leabonpack.com](https://leabonpack.com) | Avada | B2B packaging manufacturer with a product catalogue and enquiry cart |
 | [windsor.ai](https://windsor.ai/) | WordPress | Large SaaS marketing site with a mega menu |
+| [droid-life.com](https://www.droid-life.com/) | WordPress | US technology news site: PHP and VPS fixes, upgrade, new theme and speed work |
 | [coburgdentalgroup.com.au](https://www.coburgdentalgroup.com.au/) | WordPress | Dental clinic site with booking calls to action and Google reviews |
 | [polczfertility.com](https://www.polczfertility.com/) | WordPress, GeneratePress | Fertility clinic site with a video hero |
 

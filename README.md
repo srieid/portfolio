@@ -20,14 +20,20 @@ I also work on Shopify and PrestaShop stores, LearnDash course sites and REST AP
 
 ## Live sites
 
-A few of the public sites I've worked on. The full list, 27 sites across WordPress, Shopify, PrestaShop and Magento, is in [projects/live-sites.md](projects/live-sites.md).
+A few of the public sites I've worked on. The full list, 28 sites across WordPress, Shopify, PrestaShop and Magento, is in [projects/live-sites.md](projects/live-sites.md).
 
 - [ucasespot.com](https://ucasespot.com/): WooCommerce store with 900+ products, wishlist and reviews
 - [torgoscnc.gr](https://www.torgoscnc.gr/): CNC equipment store in Greek and English
 - [wynnglobal.com](https://wynnglobal.com/): financial advisory site built with Elementor Pro
 - [canyoncoolers.com](http://www.canyoncoolers.com): Shopify brand store with about 9,900 reviews
+- [droid-life.com](https://www.droid-life.com/): US technology news site. PHP and VPS fixes, upgrade, theme migration and speed work
 - [windsor.ai](https://windsor.ai/): SaaS marketing site with a large menu
 - [bugsnack.it](https://www.bugsnack.it/): speed-optimised PrestaShop store
+
+## Case studies
+
+- [amberandgreen.com.sg](projects/case-studies.md#amberandgreencomsg): built the VPS, designed and developed the site, and have maintained both for four years
+- [droid-life.com](projects/case-studies.md#droid-lifecom): fixed PHP and VPS problems, upgraded the site, moved it to a new theme and tuned it for speed
 
 My WordPress work, grouped by type of job, is in [projects/wordpress.md](projects/wordpress.md).
 
