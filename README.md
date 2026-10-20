@@ -40,7 +40,7 @@ If a site is slow, broken, hacked or needs a WooCommerce upgrade, I've usually s
 
 ### 📂 Case studies
 
-- **[amberandgreen.com.sg](projects/case-studies.md#amberandgreencomsg)**: **[amberandgreen.com.sg](https://github.com/srieid/portfolio/blob/main/projects/case-studies.md#amberandgreencomsg)** — **End-to-End Website Development, VPS Infrastructure Setup & Ongoing Maintenance**
+- **[amberandgreen.com.sg](projects/case-studies.md#amberandgreencomsg)**: — **End-to-End Website Development, VPS Infrastructure Setup & Ongoing Maintenance**
 
 Designed, developed, deployed, and maintained the website and its underlying server infrastructure, taking full responsibility for both the application and hosting environment.
 
