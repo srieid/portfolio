@@ -39,6 +39,14 @@ If a site is slow, broken, hacked or needs a WooCommerce upgrade, I've usually s
 - Handled a complex **PHP upgrade and theme migration** for Droid Life (US tech media)
 - Delivered a full **WooCommerce revamp** for a fashion ecommerce brand
 
+### Small tools I reuse on jobs
+
+Snippets I kept copying between client sites, cleaned up and put in one place. Each one has its own README with install steps and a test list.
+
+- [wp-speed-toolkit](tools/wp-speed-toolkit): speed fixes for WordPress and WooCommerce, each one switchable
+- [woo-checkout-trimmer](tools/woo-checkout-trimmer): cuts the checkout down to the fields a store needs
+- [wp-hardening-mu](tools/wp-hardening-mu): basic security settings, plus the checklist I follow on hacked sites
+
 ### 🧰 Tech stack
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
