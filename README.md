@@ -47,6 +47,8 @@ Snippets I kept copying between client sites, cleaned up and put in one place. E
 - [woo-checkout-trimmer](tools/woo-checkout-trimmer): cuts the checkout down to the fields a store needs
 - [wp-hardening-mu](tools/wp-hardening-mu): basic security settings, plus the checklist I follow on hacked sites
 
+A longer list of my [WordPress and WooCommerce projects](projects/wordpress.md) is in the projects folder.
+
 ### 🧰 Tech stack
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
